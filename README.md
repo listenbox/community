@@ -1,3 +1,3 @@
-# Listenbox issue tracker
+# [Listenbox](https://listenbox.app) issue tracker
 
-Go to https://github.com/listenbox/community/issues to vote on stuff
+Go to [issues](https://github.com/listenbox/community/issues) to vote on things
